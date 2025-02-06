@@ -9,6 +9,10 @@
   --color-green-base: #22c525;
 }
 
+@utility container {
+  @apply mx-auto;
+}
+
 @layer components {
   .section-padding-x {
     @apply px-6 sm:px-8 md:px-12 xl:px-20;
