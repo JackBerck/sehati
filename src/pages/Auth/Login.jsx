@@ -10,9 +10,9 @@ export default function Login() {
   return (
     <Authentication
       id="login"
-      sideImage="/img/backgrounds/dr-teddy.jpg"
+      sideImage="/img/backgrounds/dr-teddy.webp"
       direction="right"
-      quote='Jaga tubuhmu. Itulah satu-satunya tempat yang kamu miliki untuk hidup.” -Jim Rohn'
+      quote="Jaga tubuhmu. Itulah satu-satunya tempat yang kamu miliki untuk hidup.” -Jim Rohn"
     >
       <LoginForm />
     </Authentication>

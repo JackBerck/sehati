@@ -12,32 +12,32 @@ export default function ProgramsAbout() {
             Program
           </p>
           <h2 className="title-font-size font-bold mb-2">
-            Program yang kami tawarkan
+            Program yang Kami Tawarkan
           </h2>
         </div>
         <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4">
           <ProgramCard
             title="Cek Stunting"
             description="Program yang membantu ibu untuk mengecek status stunting anaknya."
-            image="/img/random/anak-ukur-tinggi.png"
+            image="/img/random/anak-ukur-tinggi.webp"
             link="/cek-stunting"
           />
           <ProgramCard
             title="Edukasi"
             description="Program yang memberikan edukasi kepada ibu tentang pentingnya gizi."
-            image="/img/random/edukasi-kesehatan.png"
+            image="/img/random/edukasi-kesehatan.webp"
             link="/edukasi"
           />
           <ProgramCard
             title="Imunisasi"
             description="Program yang membantu ibu untuk mengecek status imunisasi anaknya."
-            image="/img/random/imunisasi-anak.png"
+            image="/img/random/imunisasi-anak.webp"
             link="/imunisasi"
           />
           <ProgramCard
             title="Forum"
             description="Program yang memungkinkan ibu untuk berdiskusi tentang gizi dengan ibu yang lain."
-            image="/img/random/forum-ibu-anak.png"
+            image="/img/random/forum-ibu-anak.webp"
             link="/forum"
           />
         </div>

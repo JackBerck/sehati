@@ -11,7 +11,7 @@ export default function Register() {
     <main>
       <Authentication
         id="register"
-        sideImage="/img/backgrounds/doctor-with-mask.jpg"
+        sideImage="/img/backgrounds/doctor-with-mask.webp"
         direction="left"
         quote='Kekayaan yang paling utama adalah kesehatan." -Ralph Waldo Emerson'
       >

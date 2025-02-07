@@ -31,7 +31,7 @@ export default function RegisterForm() {
   return (
     <div className="w-full p-4 lg:w-1/2">
       <h1 className="title-font-size font-bold mb-1 md:text-center">
-        PeduliRasa
+        Sehati
       </h1>
       <p className="mb-2 md:text-center">Daftar akun baru</p>
       {errorMessage && (

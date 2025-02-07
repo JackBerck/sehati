@@ -15,7 +15,7 @@ export default function Footer() {
         <div className="md:flex md:justify-between">
           <div className="mb-6 md:mb-0">
             <Link to="/" className="flex items-center">
-              <img src="/sehati.png" className="h-8 me-3" alt="Sehati Logo" />
+              <img src="/sehati.webp" className="h-8 me-3" alt="Sehati Logo" />
               <span className="self-center text-2xl font-semibold whitespace-nowrap">
                 Sehati
               </span>

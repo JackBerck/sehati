@@ -26,7 +26,7 @@ export default function DonateAbout() {
           </div>
           <div className="justify-center items-center absolute right-0 bottom-0 z-10 hidden md:flex">
             <img
-              src="/img/random/donasi.png"
+              src="/img/random/donasi.webp"
               alt="Donasi"
               className="w-full md:max-w-sm lg:max-w-lg"
             />

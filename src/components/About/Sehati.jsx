@@ -11,7 +11,7 @@ export default function SehatiAbout() {
               Apa itu Sehati?
             </p>
             <h2 className="title-font-size font-bold mb-2">
-              Jembatan emas menuju masa depan yang gemilang
+              Jembatan Emas Menuju Masa Depan yang Gemilang
             </h2>
             <p className="mb-1">
               Sehati hadir sebagai solusi, bersama kita bangun masa depan
@@ -68,17 +68,17 @@ export default function SehatiAbout() {
           </div>
           <div className="w-full lg:w-1/2 grid grid-cols-2 gap-2">
             <img
-              src="/img/random/anak-anak-sd.png"
+              src="/img/random/anak-anak-sd.webp"
               alt="Foto anak-anak SD"
               className="object-cover w-full max-h-[96px] md:max-h-[144px] rounded-lg"
             />
             <img
-              src="/img/random/anak-stunting.png"
+              src="/img/random/anak-stunting.webp"
               alt="Foto anak stunting"
               className="object-cover w-full max-h-[96px] md:max-h-[144px] rounded-lg"
             />
             <img
-              src="/img/random/ibu-dan-anak.png"
+              src="/img/random/ibu-dan-anak.webp"
               alt="Foto ibu dan anak"
               className="object-cover w-full max-h-[256px] rounded-lg col-span-2"
             />
