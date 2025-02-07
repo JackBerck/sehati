@@ -4,7 +4,7 @@ export default function DonateAbout() {
   return (
     <section
       id="donate-about"
-      className="section-padding-x pt-6 pb-6 text-light-base"
+      className="section-padding-x pt-6 lg:pt-16 pb-6 text-light-base"
     >
       <div className="container max-w-screen-xl bg-gradient-to-r from-green-400 to-blue-500 rounded-md p-4 relative">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
