@@ -1,4 +1,4 @@
-export default function SocialMediaLink() {
+export default function SocialMediaLinkFooter() {
     return (
       <div className="flex gap-2 mt-4 sm:justify-center sm:mt-0">
         <a href="#" className="text-gray-500 hover:text-gray-900  hover:bg-gray-500 rounded-full p-1">

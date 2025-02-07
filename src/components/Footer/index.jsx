@@ -1,5 +1,5 @@
 import FooterLink from "./FooterLink";
-import SocialMediaLink from "./SocialMediaLink";
+import SocialMediaLinkFooter from "./SocialMediaLink";
 import { navigation } from "../../data/navigation";
 import { legal } from "../../data/legal";
 import { socialMedia } from "../../data/social-media";
@@ -39,7 +39,7 @@ export default function Footer() {
             </Link>
             . All Rights Reserved.
           </span>
-          <SocialMediaLink />
+          <SocialMediaLinkFooter />
         </div>
       </div>
     </footer>

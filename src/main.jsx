@@ -5,6 +5,7 @@ import Layout from "./layouts/index.jsx";
 import Login from "./pages/Auth/Login.jsx";
 import "./style/index.css";
 import Register from "./pages/Auth/Register.jsx";
+import About from "./pages/About.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
@@ -13,6 +14,7 @@ createRoot(document.getElementById("root")).render(
         <Routes>
           <Route path="/masuk" element={<Login />} />
           <Route path="/daftar" element={<Register />} />
+          <Route path="/tentang-kami" element={<About />} />
         </Routes>
       </Layout>
     </Router>
